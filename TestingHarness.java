@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * A simple testing harness to help you test your implementations.
+ * A simple testing harness.
  */
 public class TestingHarness {
 	public static void main(String[] args) {
